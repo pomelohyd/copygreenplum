@@ -1,0 +1,8 @@
+cn\hashdata\datax\plugin\writer\gpdbwriter\CopyWorker$1.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\CopyWriterTask.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\CopyProcessor.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\CopyWriterJob.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\GpdbWriter.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\CopyWorker.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\GpdbWriter$Job.class
+cn\hashdata\datax\plugin\writer\gpdbwriter\GpdbWriter$Task.class
